@@ -1,0 +1,12 @@
+item{
+id:1
+name:'Potato___Early_blight'
+}
+item{
+id:2
+name:'healthy'
+}
+item{
+id:3
+name:'Potato___Late_blight'
+}
